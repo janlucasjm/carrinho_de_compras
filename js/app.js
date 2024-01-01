@@ -24,6 +24,10 @@ function alteraProduto() {
         } else if(produtoIndex == 3) {
             nomeProduto = 'Oculus VR';
             valorProduto = 5000;
+
+        } else if(produtoIndex == 4) {
+            nomeProduto = 'Microfone ATR';
+            valorProduto = 1800;
         }
     })
 }
